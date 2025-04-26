@@ -43,4 +43,4 @@ This project serves as a portfolio piece demonstrating proficiency in:
 
 ## Live Demo
 
-*(Optional: Add link here if deployed, e.g., using GitHub Pages)*
+https://ctokmak.github.io/company-landing-page-demo/
